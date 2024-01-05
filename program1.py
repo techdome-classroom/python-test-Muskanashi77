@@ -15,6 +15,7 @@ class Solution(object):
                 return False
         else:
             return False
+            
 
     return not stack
         pass
